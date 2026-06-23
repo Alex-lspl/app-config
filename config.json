@@ -1,5 +1,4 @@
 {
-  "banner_enabled": true,
-  "banner_image": "/images/banner.webp",
-  "banner_url": "https://example.com"
+  "enabled": true,
+  "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/banner.webp"
 }
