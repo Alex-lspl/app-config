@@ -1,5 +1,4 @@
 {
-  "enabled": true,
-  "_enabled_hint": "false скрывает, true показывает",
+  "enabled": false,
   "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/Group 2.png"
 }
