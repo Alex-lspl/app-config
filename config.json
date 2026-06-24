@@ -1,4 +1,8 @@
 {
-  "enabled": false,
-  "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/Group-2.webp"
+  "version": "1.2.40",
+  "updateImageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/Group 2.png",
+  "updateUrl": "https://github.com/",
+  "enabled": true,
+  "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/Group-2.webp",
+  "url": "https://www.dns-shop.ru/"
 }
