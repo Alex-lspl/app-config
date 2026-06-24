@@ -3,7 +3,7 @@
   "updateEnabled": true,
   "updateImageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/update.webp",
   "updateUrl": "https://github.com/",
-  "enabled": true,
+  "enabled": false,
   "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/update.webp",
   "url": "https://www.dns-shop.ru/"
 }
