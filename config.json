@@ -1,5 +1,6 @@
 {
-  "version": "1.2.45",
+  "version": "1.2.40",
+  "updateEnabled": true,
   "updateImageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/Group 2.png",
   "updateUrl": "https://github.com/",
   "enabled": true,
