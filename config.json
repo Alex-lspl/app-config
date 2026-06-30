@@ -2,7 +2,7 @@
   "version": "1.2.86",
   "updateEnabled": true,
   "updateImageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/update_2.webp",
-  "updateUrl": "https://t.me/AWG_WARP",
+  "updateUrl": "tg://AWG_WARP",
   "enabled": false,
   "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/update.webp",
   "url": "https://www.dns-shop.ru/"
