@@ -1,8 +1,9 @@
 {
-  "version": "1.3.01",
+  "version": "1.3.02",
   "updateEnabled": true,
   "updateImageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/update_2.webp",
-  "updateUrl": "tg://resolve?domain=l_SP_Soft_l",
+  "updateUrl": "tg://privatepost?channel=4498235490&post=33",
+  "_comment": "Ссылка на канал tg://resolve?domain=l_SP_Soft_l",
   "enabled": false,
   "imageUrl": "https://raw.githubusercontent.com/Alex-lspl/app-config/main/images/update.webp",
   "url": "https://www.dns-shop.ru/"
